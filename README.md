@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Tiwari</h1>
 <h3 align="center">A passionate Java full-stack developer from India</h3>
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Image Description"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-tiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-tiwari05" /> </p>
 
 
 - 🌱 I’m currently learning **Spring Boot, React**
