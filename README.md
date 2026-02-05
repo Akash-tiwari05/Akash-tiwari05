@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, Html, Css, JavaScript, Sql**
 
-- 📫 How to reach me **myselfakashtiwari05@gmail.com**
+- 📫 How to reach me **tiwariakash.edu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
