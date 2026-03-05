@@ -10,8 +10,6 @@
   </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/89094640-58e3-41ed-b5db-3fd94be2bc86.svg)](https://wakatime.com/@89094640-58e3-41ed-b5db-3fd94be2bc86)
-
 <h3 align="center">
   <samp>
     Hey There! I am <b><a target="_blank" href="https://my-portfolio-app-theta-ten.vercel.app/">Akash Tiwari</a></b>
