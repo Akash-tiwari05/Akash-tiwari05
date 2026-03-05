@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/aasn0119">
+  <a href="https://github.com/Akash-tiwari05">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=500&height=50&color=7F3FBF&background=000000" alt="Typing SVG">
   </a>
 </p>
@@ -14,7 +14,7 @@
 
 <h3 align="center">
   <samp>
-    Hey There! I am <b><a target="_blank" href="https://anuj-vfolio.netlify.app">Akash Tiwari</a></b>
+    Hey There! I am <b><a target="_blank" href="https://my-portfolio-app-theta-ten.vercel.app/">Akash Tiwari</a></b>
   </samp>
 </h3>
 
@@ -27,7 +27,7 @@
 # 🚀 About me
 
 <p>
- <img align="right" width="400" src="./assets/programmer.gif" alt="Coding gif">
+ <img align="right" width="400" src="./programmer.gif" alt="Coding gif">
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -75,7 +75,7 @@
 
 ## 🔥 Contribution Graph
 
-![Anuj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-tiwari05&custom_title=Akash%20Trivedi%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Akash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-tiwari05&custom_title=Akash%20Trivedi%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## 💡 Quick Facts About Me
 
