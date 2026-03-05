@@ -1,26 +1,115 @@
-<h1 align="center">Hi 👋, I'm Akash Tiwari</h1>
-<h3 align="center">A passionate Java full-stack developer from India</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Image Description"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-tiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-tiwari05" /> </p>
+<h1 align="center">
+  Welcome to Akash's Github! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand">
+  <img src="https://komarev.com/ghpvc/?username=aasn0119&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor">
+</h1>
 
-
-- 🌱 I’m currently learning **Spring Boot, React**
-
-- 💬 Ask me about **Java, Html, Css, JavaScript, Sql**
-
-- 📫 How to reach me **tiwariakash.edu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-tiwari-0b5105253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-tiwari-0b5105253" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akash_tiwari05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_tiwari05" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/aasn0119">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=500&height=50&color=7F3FBF&background=000000" alt="Typing SVG">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![wakatime](https://wakatime.com/badge/user/89094640-58e3-41ed-b5db-3fd94be2bc86.svg)](https://wakatime.com/@89094640-58e3-41ed-b5db-3fd94be2bc86)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-tiwari05&show_icons=true&locale=en&layout=compact" alt="akash-tiwari05" /></p>
+<h3 align="center">
+  <samp>
+    Hey There! I am <b><a target="_blank" href="https://anuj-vfolio.netlify.app">Akash Tiwari</a></b>
+  </samp>
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-tiwari05&show_icons=true&locale=en" alt="akash-tiwari05" /></p>
+<p align="center"> 
+  <samp>
+    「 I am a Full-stack Java developer and DevOps Enthusiast from <b>India</b> 」
+  </samp>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-tiwari05&" alt="akash-tiwari05" /></p>
+<p align="center">
+ <a href="https://my-vfolio.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website">
+ </a>
+ <a href="https://www.linkedin.com/in/anuj-abhi-s019" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ </a>
+ <a href="https://www.instagram.com/anuj_trivedi_19/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+ </a> 
+ <a href="https://facebook.com/anuj.trivedi.7315" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+ </a> 
+</p>
+
+# 🚀 About me
+
+<p>
+ <img align="right" width="400" src="./assets/programmer.gif" alt="Coding gif">
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: tiwariakash.edu@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Akash-tiwari05/Akash-tiwari05/issues)
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
+## 💻 Tech Stack I Use
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,react,html,css,tailwind,bootstrap,python,java,git,vscode,replit,vercel,netlify,mongodb,redux,nextjs,spring,docker,kubernetes,aws" alt="Expanded Tech Stack">
+  </a>
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Akash-tiwari05/">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Akash-tiwari05&theme=radical&border=7F3FBF&background=0D1117" alt="Akash's GitHub streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Akash-tiwari05/">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash-tiwari05&theme=radical" alt="Akash's GitHub Contribution">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Akash-tiwari05/">
+    <img alt="Akash's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akash-tiwari05&theme=radical" height="192px" width="49.5%">
+  </a>
+  <a href="https://github.com/Akash-tiwari05/">
+    <img alt="Akash's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akash-tiwari05&theme=radical" height="192px" width="49.5%">
+  </a>
+</p>
+
+## 🔥 Contribution Graph
+
+![Anuj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-tiwari05&custom_title=Akash%20Trivedi%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+## 💡 Quick Facts About Me
+
+- 🌱 Currently exploring advanced Full-Stack development
+- 🤖 Passionate about DevOps Learning
+- 📚 Always learning and expanding my tech stack
+- 🎯 Goal: Contribute to meaningful open-source projects
+
+## 🤝 Connect with Me
+
+<p align="center">
+ <a href="mailto:tiwariakash.edu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+ </a>
+ <a href="https://www.linkedin.com/in/akash05tiwari/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=30" alt="Footer">
+</p>
