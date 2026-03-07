@@ -73,7 +73,7 @@
 
 ## 🔥 Contribution Graph
 
-![Akash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-tiwari05&custom_title=Akash%20Trivedi%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Akash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-tiwari05&custom_title=Akash%20Tiwari%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ## 💡 Quick Facts About Me
 
