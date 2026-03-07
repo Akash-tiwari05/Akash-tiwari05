@@ -1,7 +1,7 @@
 <h1 align="center">
   Welcome to Akash's Github! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand">
-  <img src="https://komarev.com/ghpvc/?username=aasn0119&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor">
+  <img src="https://komarev.com/ghpvc/?username=Akash-tiwari05&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor">
 </h1>
 
 <p align="center">
